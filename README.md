@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi, I'm Franco 👋
 
-<!--
-**francomaxmartini/francomaxmartini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a finance professional with experience in credit risk and analytics, currently building a portfolio focused on SQL-based analysis and data-driven decision making.
 
-Here are some ideas to get you started:
+### 🔍 Current focus
+- Credit portfolio analysis
+- SQL (PostgreSQL)
+- Data analytics projects with real-world structure
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Featured project
+- **Credit Portfolio SQL Analysis**  
+  SQL analysis of a synthetic loan portfolio focusing on exposure, defaults, and payment behavior.
+
+📫 Connect with me on LinkedIn: [https://www.linkedin.com/in/fmmartini/]
