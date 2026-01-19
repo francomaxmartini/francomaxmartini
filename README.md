@@ -1,15 +1,23 @@
 ## Hi, I'm Franco 👋
 
-I’m a finance professional with experience in credit risk and analytics, currently building a portfolio focused on SQL-based analysis and data-driven decision making.
+I’m a finance professional with experience in credit risk and financial analytics, building a portfolio focused on **end-to-end analytical workflows** and **business-driven KPI design**.
 
-My projects emphasize business-oriented analytics, realistic data modeling, and clean SQL patterns commonly used in real-world analytics teams.
+My work emphasizes translating real business questions into structured data models, reproducible Python pipelines, and production-style SQL analysis commonly used by analytics and finance teams.
 
-### 🔍 Current focus
-- Credit portfolio and financial performance analysis
-- SQL (PostgreSQL): CTEs, window functions, ranking, time-based metrics
-- Analytics projects with real-world structure and clear business questions
+---
+
+## 🔍 Current Focus
+
+- Financial performance and credit portfolio analysis  
+- Python (pandas): data exploration, cleaning pipelines, KPI computation  
+- SQL (PostgreSQL): CTEs, window functions, ranking, time-based metrics  
+- Analytics projects with realistic structure, clear assumptions, and executive-level outputs  
+
 
 ### 📌 Featured projects
+- **Financial Performance Snapshot**
+  End-to-end financial analytics project combining Python and SQL to analyze revenue, costs, margins, and time-based performance, with documented data validation, KPI definitions, and executive-level insights.
+
 - **Credit Portfolio SQL Analysis**  
   SQL analysis of a synthetic loan portfolio focusing on exposure, defaults, and payment behavior.
 
