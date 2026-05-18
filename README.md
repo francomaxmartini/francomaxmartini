@@ -22,10 +22,11 @@ My projects emphasize transforming real business and financial problems into str
 
 - **Loan Data Preprocessing with NumPy**
 
-- End-to-end preprocessing pipeline built primarily with NumPy using a real-world LendingClub loan dataset. The project includes missing value handling, categorical encoding, currency standardization, feature engineering, and preparation of a machine-learning-ready financial dataset.
+End-to-end preprocessing pipeline built primarily with NumPy using a real-world LendingClub loan dataset. The project includes missing value handling, categorical encoding, currency standardization, feature engineering, and preparation of a machine-learning-ready financial dataset.
 
 - **Credit Portfolio SQL Analysis**  
 
   SQL analysis of a synthetic loan portfolio focusing on exposure, defaults, and payment behavior.
+  
 
 📫 Connect with me on LinkedIn: [https://www.linkedin.com/in/fmmartini/]
